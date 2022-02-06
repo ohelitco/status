@@ -24,8 +24,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://ohelit.co/wp-content/uploads/2019/08/Ohelitverde.png
   name: Ohelit Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Estado de servicios Ohelit"
+  introMessage: En este sitio encuentras la información de estado actual de todos nuestros servicios WEB públicos. Notas: •	Este sitio de estado, monitorea en tiempo real cada uno de nuestros servicios WEB públicos.  •	El periodo de actualización promedio es de 8 minutos. •	Puedes ver los incidentes activos, avances y estados de los mismo.
   navbar:
     - title: Status
       href: /
