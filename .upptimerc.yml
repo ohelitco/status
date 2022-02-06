@@ -25,7 +25,7 @@ status-website:
   logoUrl: https://ohelit.co/wp-content/uploads/2019/08/Ohelitverde.png
   name: Ohelit Status
   introTitle: "Estado de servicios Ohelit"
-  introMessage: En este sitio encuentras la información de estado actual de todos nuestros servicios WEB públicos. Notas: •	Este sitio de estado, monitorea en tiempo real cada uno de nuestros servicios WEB públicos.  •	El periodo de actualización promedio es de 8 minutos. •	Puedes ver los incidentes activos, avances y estados de los mismo.
+  introMessage: En este sitio encuentras la información de estado actual de todos nuestros servicios WEB públicos
   navbar:
     - title: Status
       href: /
