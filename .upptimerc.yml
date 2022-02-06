@@ -5,11 +5,9 @@ repo: status # The name of this repository
 sites:
   - name: Muysc
     url: https://muysc.ohelit.co
-  - name: CA
-    url: https://ca.ohelit.co/api
-  - name: reportes
-    url: https://repository.ohelit.co
-  - name: Aut
+  - name: Reportes
+    url: https://repository.ohelit.co/jasperserver/login.html
+  - name: Auth
     url: https://auth.ohelit.co/auth/
   - name: Class
     url: https://class.ohelit.co/
