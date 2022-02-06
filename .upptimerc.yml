@@ -6,7 +6,7 @@ sites:
   - name: Muysc
     url: https://muysc.ohelit.co
   - name: Reportes
-    url: https://repositor.ohelit.co/jasperserver/login.html
+    url: https://repository.ohelit.co/jasperserver/login.html
   - name: Auth
     url: https://auth.ohelit.co/auth/
   - name: Class
