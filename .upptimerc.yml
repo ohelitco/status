@@ -3,12 +3,12 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Muysc Unimonserrate, Girag, CAC
+  - name: Muysc
     url: https://muysc.ohelit.co
-  - name: Contról de acceso
-    url: https://ca.ohelit.co/api
-  - name: Reportes
-    url: https://repository.ohelit.co/jasperserver/login.html
+  - name: ca
+    url: https://ca.ohelit.co
+  - name: reportes
+    url: https://repository.ohelit.co
 
 assignees:
   - ohelitco
@@ -19,7 +19,7 @@ status-website:
   cname: status.ohelit.co
   # baseUrl: /your-repo-name
   logoUrl: https://ohelit.co/wp-content/uploads/2019/08/Ohelitverde.png
-  name: Upptime
+  name: Ohelit Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
