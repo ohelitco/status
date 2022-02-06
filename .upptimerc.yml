@@ -16,7 +16,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.ohelit.co
+  cname: estado.ohelit.co
   # baseUrl: /your-repo-name
   logoUrl: https://ohelit.co/wp-content/uploads/2019/08/Ohelitverde.png
   name: Ohelit Status
