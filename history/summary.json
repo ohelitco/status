@@ -4,19 +4,19 @@
     "url": "https://muysc.ohelit.co",
     "icon": "https://favicons.githubusercontent.com/muysc.ohelit.co",
     "slug": "muysc",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 627,
-    "timeDay": 550,
-    "timeWeek": 627,
-    "timeMonth": 627,
-    "timeYear": 627,
+    "status": "up",
+    "uptime": "99.12%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
+    "time": 612,
+    "timeDay": 479,
+    "timeWeek": 612,
+    "timeMonth": 612,
+    "timeYear": 612,
     "dailyMinutesDown": {
-      "2022-02-11": 2
+      "2022-02-11": 64
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/repository.ohelit.co",
     "slug": "reportes",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.11%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
     "time": 1122,
     "timeDay": 1176,
     "timeWeek": 1122,
     "timeMonth": 1122,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2022-02-11": 1
+      "2022-02-11": 65
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://auth.ohelit.co/auth/",
     "icon": "https://favicons.githubusercontent.com/auth.ohelit.co",
     "slug": "auth",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 667,
-    "timeDay": 524,
-    "timeWeek": 667,
-    "timeMonth": 667,
-    "timeYear": 667,
+    "status": "up",
+    "uptime": "99.11%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
+    "time": 638,
+    "timeDay": 466,
+    "timeWeek": 638,
+    "timeMonth": 638,
+    "timeYear": 638,
     "dailyMinutesDown": {
-      "2022-02-11": 1
+      "2022-02-11": 65
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://class.ohelit.co/",
     "icon": "https://favicons.githubusercontent.com/class.ohelit.co",
     "slug": "class",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1070,
-    "timeDay": 837,
-    "timeWeek": 1070,
-    "timeMonth": 1070,
-    "timeYear": 1070,
+    "status": "up",
+    "uptime": "99.12%",
+    "uptimeDay": "95.55%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
+    "time": 1026,
+    "timeDay": 735,
+    "timeWeek": 1026,
+    "timeMonth": 1026,
+    "timeYear": 1026,
     "dailyMinutesDown": {
-      "2022-02-11": 0
+      "2022-02-11": 64
     }
   }
 ]
