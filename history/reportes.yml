@@ -1,7 +1,7 @@
 url: https://repository.ohelit.co/jasperserver/login.html
-status: up
-code: 200
-responseTime: 652
-lastUpdated: 2022-03-25T07:12:18.861Z
+status: down
+code: 502
+responseTime: 525
+lastUpdated: 2022-03-25T07:28:13.352Z
 startTime: Sun Feb 06 2022 04:54:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
