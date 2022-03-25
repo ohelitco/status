@@ -26,18 +26,18 @@
     "icon": "https://favicons.githubusercontent.com/repository.ohelit.co",
     "slug": "reportes",
     "status": "up",
-    "uptime": "95.71%",
-    "uptimeDay": "78.81%",
-    "uptimeWeek": "75.53%",
-    "uptimeMonth": "93.40%",
-    "uptimeYear": "95.71%",
+    "uptime": "95.70%",
+    "uptimeDay": "79.46%",
+    "uptimeWeek": "75.63%",
+    "uptimeMonth": "93.38%",
+    "uptimeYear": "95.70%",
     "time": 927,
     "timeDay": 707,
     "timeWeek": 875,
     "timeMonth": 910,
     "timeYear": 927,
     "dailyMinutesDown": {
-      "2022-03-24": 303,
+      "2022-03-24": 294,
       "2022-03-23": 504,
       "2022-03-22": 529,
       "2022-03-21": 386,
@@ -45,7 +45,7 @@
       "2022-03-19": 111,
       "2022-03-18": 220,
       "2022-03-17": 289,
-      "2022-03-16": 135
+      "2022-03-16": 154
     }
   },
   {
