@@ -26,18 +26,19 @@
     "url": "https://repository.ohelit.co/jasperserver/login.html",
     "icon": "https://favicons.githubusercontent.com/repository.ohelit.co",
     "slug": "reportes",
-    "status": "up",
-    "uptime": "95.11%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "95.19%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "76.08%",
-    "uptimeMonth": "90.82%",
-    "uptimeYear": "95.11%",
-    "time": 954,
-    "timeDay": 874,
-    "timeWeek": 2131,
-    "timeMonth": 1019,
-    "timeYear": 954,
+    "uptimeMonth": "91.10%",
+    "uptimeYear": "95.19%",
+    "time": 953,
+    "timeDay": 757,
+    "timeWeek": 2170,
+    "timeMonth": 998,
+    "timeYear": 953,
     "dailyMinutesDown": {
+      "2022-04-25": 0,
       "2022-04-22": 33,
       "2022-04-21": 46,
       "2022-04-20": 948,
@@ -62,7 +63,7 @@
       "2022-03-24": 294,
       "2022-03-23": 504,
       "2022-03-22": 529,
-      "2022-03-21": 129
+      "2022-03-21": 109
     }
   },
   {
