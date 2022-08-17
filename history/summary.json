@@ -4,9 +4,9 @@
     "url": "https://muysc.ohelit.co",
     "icon": "https://favicons.githubusercontent.com/muysc.ohelit.co",
     "slug": "muysc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.28%",
     "uptimeYear": "99.63%",
@@ -16,6 +16,7 @@
     "timeMonth": 606,
     "timeYear": 591,
     "dailyMinutesDown": {
+      "2022-08-17": 0,
       "2022-08-09": 22,
       "2022-07-20": 730,
       "2022-06-20": 30,
@@ -32,18 +33,19 @@
     "url": "https://repository.ohelit.co/jasperserver/login.html",
     "icon": "https://favicons.githubusercontent.com/repository.ohelit.co",
     "slug": "reportes",
-    "status": "up",
-    "uptime": "96.49%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "96.51%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.27%",
-    "uptimeYear": "96.49%",
+    "uptimeYear": "96.51%",
     "time": 972,
     "timeDay": 888,
     "timeWeek": 1141,
     "timeMonth": 1283,
     "timeYear": 972,
     "dailyMinutesDown": {
+      "2022-08-17": 0,
       "2022-08-09": 22,
       "2022-07-30": 1031,
       "2022-07-29": 12,
@@ -87,7 +89,7 @@
       "2022-04-11": 140,
       "2022-04-10": 31,
       "2022-04-07": 66,
-      "2022-04-06": 73
+      "2022-04-06": 38
     }
   },
   {
