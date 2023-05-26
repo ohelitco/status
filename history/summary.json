@@ -11,10 +11,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.69%",
     "time": 418,
-    "timeDay": 382,
-    "timeWeek": 807,
-    "timeMonth": 387,
-    "timeYear": 358,
+    "timeDay": 350,
+    "timeWeek": 808,
+    "timeMonth": 389,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2023-05-03": 30,
       "2023-04-11": 355,
@@ -26,8 +26,7 @@
       "2022-08-18": 181,
       "2022-08-09": 22,
       "2022-07-20": 730,
-      "2022-06-20": 30,
-      "2022-05-26": 15
+      "2022-06-20": 30
     }
   },
   {
@@ -42,10 +41,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.76%",
     "time": 915,
-    "timeDay": 543,
-    "timeWeek": 384,
-    "timeMonth": 361,
-    "timeYear": 887,
+    "timeDay": 511,
+    "timeWeek": 414,
+    "timeMonth": 366,
+    "timeYear": 885,
     "dailyMinutesDown": {
       "2023-04-11": 355,
       "2023-03-09": 206,
@@ -60,8 +59,7 @@
       "2022-07-21": 1007,
       "2022-07-20": 822,
       "2022-06-15": 934,
-      "2022-06-14": 502,
-      "2022-05-26": 163
+      "2022-06-14": 502
     }
   },
   {
@@ -70,18 +68,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.ohelit.co.ico",
     "slug": "auth",
     "status": "down",
-    "uptime": "78.83%",
+    "uptime": "78.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.62%",
+    "uptimeYear": "72.34%",
     "time": 414,
-    "timeDay": 382,
-    "timeWeek": 329,
-    "timeMonth": 248,
+    "timeDay": 327,
+    "timeWeek": 319,
+    "timeMonth": 251,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2023-05-25": 56,
+      "2023-05-26": 55,
+      "2023-05-25": 1440,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
@@ -185,8 +184,7 @@
       "2022-08-18": 76,
       "2022-08-09": 21,
       "2022-07-20": 729,
-      "2022-07-08": 28,
-      "2022-05-26": 15
+      "2022-07-08": 28
     }
   },
   {
@@ -195,16 +193,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/class.ohelit.co.ico",
     "slug": "class",
     "status": "up",
-    "uptime": "99.13%",
+    "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
     "time": 1095,
-    "timeDay": 901,
-    "timeWeek": 888,
-    "timeMonth": 946,
-    "timeYear": 1128,
+    "timeDay": 768,
+    "timeWeek": 868,
+    "timeMonth": 948,
+    "timeYear": 1127,
     "dailyMinutesDown": {
       "2023-04-22": 392,
       "2023-04-21": 277,
