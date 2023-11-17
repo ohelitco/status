@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "99.82%",
-    "time": 385,
-    "timeDay": 533,
-    "timeWeek": 335,
+    "time": 384,
+    "timeDay": 259,
+    "timeWeek": 338,
     "timeMonth": 357,
     "timeYear": 367,
     "dailyMinutesDown": {
@@ -22,8 +22,7 @@
       "2023-05-03": 30,
       "2023-04-11": 355,
       "2023-01-25": 34,
-      "2022-12-24": 106,
-      "2022-11-17": 43
+      "2022-12-24": 106
     }
   },
   {
@@ -37,10 +36,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.81%",
     "uptimeYear": "96.05%",
-    "time": 751,
-    "timeDay": 550,
-    "timeWeek": 408,
-    "timeMonth": 429,
+    "time": 750,
+    "timeDay": 248,
+    "timeWeek": 379,
+    "timeMonth": 430,
     "timeYear": 710,
     "dailyMinutesDown": {
       "2023-10-19": 72,
@@ -62,8 +61,7 @@
       "2023-04-11": 355,
       "2023-03-09": 206,
       "2023-02-02": 20,
-      "2023-01-17": 617,
-      "2022-11-17": 553
+      "2023-01-17": 617
     }
   },
   {
@@ -72,15 +70,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.ohelit.co.ico",
     "slug": "auth",
     "status": "up",
-    "uptime": "64.26%",
+    "uptime": "64.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.24%",
     "uptimeYear": "36.77%",
-    "time": 307,
-    "timeDay": 179,
+    "time": 306,
+    "timeDay": 251,
     "timeWeek": 221,
-    "timeMonth": 293,
+    "timeMonth": 296,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2023-10-18": 331,
@@ -324,18 +322,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/class.ohelit.co.ico",
     "slug": "class",
     "status": "down",
-    "uptime": "72.91%",
+    "uptime": "72.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.29%",
-    "time": 991,
+    "uptimeYear": "52.03%",
+    "time": 992,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 335,
-    "timeYear": 960,
+    "timeMonth": 315,
+    "timeYear": 943,
     "dailyMinutesDown": {
-      "2023-11-16": 51,
+      "2023-11-17": 51,
+      "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
@@ -534,8 +533,7 @@
       "2022-11-25": 15,
       "2022-11-24": 44,
       "2022-11-23": 551,
-      "2022-11-19": 42,
-      "2022-11-17": 114
+      "2022-11-19": 42
     }
   }
 ]
