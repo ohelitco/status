@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.47%",
-    "time": 267,
-    "timeDay": 396,
-    "timeWeek": 166,
+    "time": 266,
+    "timeDay": 93,
+    "timeWeek": 161,
     "timeMonth": 161,
     "timeYear": 208,
     "dailyMinutesDown": {
@@ -35,11 +35,11 @@
     "uptimeWeek": "98.58%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.88%",
-    "time": 422,
-    "timeDay": 539,
-    "timeWeek": 2982,
+    "time": 421,
+    "timeDay": 174,
+    "timeWeek": 2985,
     "timeMonth": 939,
-    "timeYear": 411,
+    "timeYear": 410,
     "dailyMinutesDown": {
       "2025-01-23": 143,
       "2024-06-20": 17,
@@ -52,16 +52,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.ohelit.co.ico",
     "slug": "auth",
     "status": "up",
-    "uptime": "78.65%",
+    "uptime": "78.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 233,
-    "timeDay": 370,
-    "timeWeek": 168,
-    "timeMonth": 161,
-    "timeYear": 200,
+    "timeDay": 87,
+    "timeWeek": 165,
+    "timeMonth": 159,
+    "timeYear": 199,
     "dailyMinutesDown": {
       "2024-04-24": 482
     }
@@ -72,18 +72,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/class.ohelit.co.ico",
     "slug": "class",
     "status": "down",
-    "uptime": "43.50%",
+    "uptime": "43.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 432,
+    "time": 431,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-27": 64,
+      "2025-01-28": 62,
+      "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -446,8 +447,7 @@
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
-      "2024-01-30": 1440,
-      "2024-01-29": 1440
+      "2024-01-30": 1440
     }
   }
 ]
