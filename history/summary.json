@@ -47,18 +47,20 @@
     "url": "https://auth.ohelit.co/auth/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.ohelit.co.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "80.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
+    "time": 203,
     "timeDay": 357,
     "timeWeek": 268,
     "timeMonth": 222,
     "timeYear": 183,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-04": 0
+    }
   },
   {
     "name": "Class",
@@ -66,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/class.ohelit.co.ico",
     "slug": "class",
     "status": "down",
-    "uptime": "38.91%",
+    "uptime": "38.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -77,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-04": 76,
+      "2025-06-04": 689,
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 1440,
