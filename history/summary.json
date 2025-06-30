@@ -11,9 +11,9 @@
     "uptimeMonth": "98.62%",
     "uptimeYear": "99.88%",
     "time": 213,
-    "timeDay": 92,
-    "timeWeek": 220,
-    "timeMonth": 236,
+    "timeDay": 192,
+    "timeWeek": 228,
+    "timeMonth": 235,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2025-06-04": 606,
@@ -27,15 +27,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/repository.ohelit.co.ico",
     "slug": "reportes",
     "status": "up",
-    "uptime": "98.36%",
+    "uptime": "98.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.52%",
     "uptimeYear": "99.84%",
     "time": 409,
-    "timeDay": 172,
-    "timeWeek": 353,
-    "timeMonth": 371,
+    "timeDay": 310,
+    "timeWeek": 374,
+    "timeMonth": 368,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2025-06-04": 650,
@@ -49,15 +49,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.ohelit.co.ico",
     "slug": "auth",
     "status": "up",
-    "uptime": "81.27%",
+    "uptime": "81.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.96%",
-    "time": 200,
-    "timeDay": 91,
-    "timeWeek": 215,
-    "timeMonth": 225,
+    "time": 199,
+    "timeDay": 201,
+    "timeWeek": 229,
+    "timeMonth": 224,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2025-06-04": 216
@@ -69,7 +69,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/class.ohelit.co.ico",
     "slug": "class",
     "status": "down",
-    "uptime": "38.13%",
+    "uptime": "38.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -80,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-29": 84,
+      "2025-06-30": 81,
+      "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
@@ -443,8 +444,7 @@
       "2024-07-04": 1440,
       "2024-07-03": 1440,
       "2024-07-02": 1440,
-      "2024-07-01": 1440,
-      "2024-06-30": 1440
+      "2024-07-01": 1440
     }
   }
 ]
