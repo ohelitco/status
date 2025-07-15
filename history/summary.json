@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 210,
-    "timeDay": 320,
-    "timeWeek": 185,
-    "timeMonth": 223,
+    "timeDay": 145,
+    "timeWeek": 179,
+    "timeMonth": 217,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2025-06-04": 606,
@@ -27,15 +27,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/repository.ohelit.co.ico",
     "slug": "reportes",
     "status": "up",
-    "uptime": "98.38%",
+    "uptime": "98.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 405,
-    "timeDay": 494,
-    "timeWeek": 293,
-    "timeMonth": 349,
+    "timeDay": 158,
+    "timeWeek": 264,
+    "timeMonth": 337,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2025-06-04": 650,
@@ -49,15 +49,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.ohelit.co.ico",
     "slug": "auth",
     "status": "up",
-    "uptime": "81.50%",
+    "uptime": "81.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 196,
-    "timeDay": 278,
-    "timeWeek": 166,
-    "timeMonth": 210,
+    "timeDay": 105,
+    "timeWeek": 158,
+    "timeMonth": 203,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2025-06-04": 216
@@ -69,7 +69,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/class.ohelit.co.ico",
     "slug": "class",
     "status": "down",
-    "uptime": "37.67%",
+    "uptime": "37.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -80,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-14": 82,
+      "2025-07-15": 83,
+      "2025-07-14": 1440,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
@@ -443,8 +444,7 @@
       "2024-07-19": 1440,
       "2024-07-18": 1440,
       "2024-07-17": 1440,
-      "2024-07-16": 1440,
-      "2024-07-15": 1440
+      "2024-07-16": 1440
     }
   }
 ]
