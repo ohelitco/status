@@ -48,16 +48,16 @@
     "url": "https://repository.ohelit.co/jasperserver/login.html",
     "icon": "https://icons.duckduckgo.com/ip3/repository.ohelit.co.ico",
     "slug": "reportes",
-    "status": "down",
-    "uptime": "98.54%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.11%",
-    "time": 570,
-    "timeDay": 503,
-    "timeWeek": 656,
-    "timeMonth": 678,
+    "status": "up",
+    "uptime": "98.53%",
+    "uptimeDay": "88.59%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.08%",
+    "time": 571,
+    "timeDay": 545,
+    "timeWeek": 653,
+    "timeMonth": 677,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2025-09-11": 929,
@@ -72,7 +72,7 @@
       "2026-03-27": 716,
       "2026-03-26": 377,
       "2026-04-16": 48,
-      "2026-06-12": 1
+      "2026-06-12": 164
     }
   },
   {
@@ -114,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-12": 830,
+      "2026-06-12": 994,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
