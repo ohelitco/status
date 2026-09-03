@@ -4,17 +4,17 @@
     "url": "https://muysc.ohelit.co",
     "icon": "https://icons.duckduckgo.com/ip3/muysc.ohelit.co.ico",
     "slug": "muysc",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.12%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "98.11%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "96.10%",
     "time": 338,
-    "timeDay": 494,
-    "timeWeek": 351,
-    "timeMonth": 386,
-    "timeYear": 380,
+    "timeDay": 300,
+    "timeWeek": 328,
+    "timeMonth": 380,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2025-11-18": 106,
       "2026-01-14": 53,
@@ -46,7 +46,8 @@
       "2026-08-19": 24,
       "2026-08-21": 49,
       "2026-08-23": 19,
-      "2026-08-29": 190
+      "2026-08-29": 190,
+      "2026-09-03": 1
     }
   },
   {
@@ -54,17 +55,17 @@
     "url": "https://repository.ohelit.co/jasperserver/login.html",
     "icon": "https://icons.duckduckgo.com/ip3/repository.ohelit.co.ico",
     "slug": "reportes",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.12%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.11%",
     "uptimeMonth": "99.10%",
     "uptimeYear": "99.01%",
     "time": 585,
-    "timeDay": 791,
-    "timeWeek": 541,
-    "timeMonth": 600,
-    "timeYear": 676,
+    "timeDay": 449,
+    "timeWeek": 497,
+    "timeMonth": 588,
+    "timeYear": 675,
     "dailyMinutesDown": {
       "2025-09-11": 929,
       "2025-09-10": 990,
@@ -84,7 +85,8 @@
       "2026-08-18": 19,
       "2026-08-19": 24,
       "2026-08-23": 18,
-      "2026-08-29": 190
+      "2026-08-29": 190,
+      "2026-09-03": 1
     }
   },
   {
@@ -92,17 +94,17 @@
     "url": "https://auth.ohelit.co/auth/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.ohelit.co.ico",
     "slug": "auth",
-    "status": "up",
-    "uptime": "86.07%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "86.08%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "98.12%",
     "uptimeMonth": "99.12%",
-    "uptimeYear": "99.86%",
+    "uptimeYear": "99.85%",
     "time": 637,
-    "timeDay": 1486,
-    "timeWeek": 961,
-    "timeMonth": 1020,
-    "timeYear": 760,
+    "timeDay": 794,
+    "timeWeek": 873,
+    "timeMonth": 998,
+    "timeYear": 758,
     "dailyMinutesDown": {
       "2025-10-02": 30,
       "2026-01-27": 34,
@@ -112,7 +114,8 @@
       "2026-08-18": 19,
       "2026-08-19": 24,
       "2026-08-23": 18,
-      "2026-08-29": 189
+      "2026-08-29": 189,
+      "2026-09-03": 1
     }
   },
   {
@@ -132,7 +135,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-03": 161,
+      "2026-09-03": 580,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
