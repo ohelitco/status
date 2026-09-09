@@ -6,10 +6,10 @@
     "slug": "muysc",
     "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "96.05%",
+    "uptimeDay": "92.24%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "98.48%",
+    "uptimeYear": "96.03%",
     "time": 339,
     "timeDay": 101,
     "timeWeek": 332,
@@ -48,7 +48,7 @@
       "2026-08-23": 19,
       "2026-08-29": 190,
       "2026-09-03": 253,
-      "2026-09-09": 1
+      "2026-09-09": 112
     }
   },
   {
@@ -58,10 +58,10 @@
     "slug": "reportes",
     "status": "down",
     "uptime": "98.59%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "98.96%",
+    "uptimeDay": "92.25%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "98.94%",
     "time": 587,
     "timeDay": 115,
     "timeWeek": 499,
@@ -88,7 +88,7 @@
       "2026-08-23": 18,
       "2026-08-29": 190,
       "2026-09-03": 252,
-      "2026-09-09": 1
+      "2026-09-09": 112
     }
   },
   {
@@ -98,10 +98,10 @@
     "slug": "auth",
     "status": "down",
     "uptime": "86.11%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "98.80%",
-    "uptimeYear": "99.81%",
+    "uptimeDay": "92.27%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "98.55%",
+    "uptimeYear": "99.79%",
     "time": 645,
     "timeDay": 102,
     "timeWeek": 859,
@@ -118,7 +118,7 @@
       "2026-08-23": 18,
       "2026-08-29": 189,
       "2026-09-03": 252,
-      "2026-09-09": 1
+      "2026-09-09": 111
     }
   },
   {
@@ -138,7 +138,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-09": 55,
+      "2026-09-09": 166,
       "2026-09-08": 1440,
       "2026-09-07": 1440,
       "2026-09-06": 1440,
