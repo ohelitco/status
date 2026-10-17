@@ -4,16 +4,16 @@
     "url": "https://muysc.ohelit.co",
     "icon": "https://icons.duckduckgo.com/ip3/muysc.ohelit.co.ico",
     "slug": "muysc",
-    "status": "down",
+    "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "95.98%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "95.96%",
     "time": 388,
-    "timeDay": 300,
-    "timeWeek": 427,
-    "timeMonth": 418,
+    "timeDay": 240,
+    "timeWeek": 420,
+    "timeMonth": 416,
     "timeYear": 460,
     "dailyMinutesDown": {
       "2025-11-18": 106,
@@ -50,7 +50,8 @@
       "2026-09-03": 253,
       "2026-09-09": 251,
       "2026-09-11": 122,
-      "2026-10-16": 1
+      "2026-10-17": 55,
+      "2026-10-16": 10
     }
   },
   {
@@ -58,16 +59,16 @@
     "url": "https://repository.ohelit.co/jasperserver/login.html",
     "icon": "https://icons.duckduckgo.com/ip3/repository.ohelit.co.ico",
     "slug": "reportes",
-    "status": "down",
+    "status": "up",
     "uptime": "98.61%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.42%",
     "time": 647,
-    "timeDay": 461,
-    "timeWeek": 659,
-    "timeMonth": 644,
+    "timeDay": 310,
+    "timeWeek": 642,
+    "timeMonth": 640,
     "timeYear": 769,
     "dailyMinutesDown": {
       "2025-11-18": 106,
@@ -89,7 +90,8 @@
       "2026-09-03": 252,
       "2026-09-09": 251,
       "2026-09-11": 121,
-      "2026-10-16": 1
+      "2026-10-17": 55,
+      "2026-10-16": 10
     }
   },
   {
@@ -97,16 +99,16 @@
     "url": "https://auth.ohelit.co/auth/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.ohelit.co.ico",
     "slug": "auth",
-    "status": "down",
-    "uptime": "86.41%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.74%",
-    "time": 765,
-    "timeDay": 827,
-    "timeWeek": 1165,
-    "timeMonth": 1109,
+    "status": "up",
+    "uptime": "86.40%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.73%",
+    "time": 767,
+    "timeDay": 533,
+    "timeWeek": 1141,
+    "timeMonth": 1104,
     "timeYear": 917,
     "dailyMinutesDown": {
       "2026-01-27": 34,
@@ -120,7 +122,8 @@
       "2026-09-03": 252,
       "2026-09-09": 250,
       "2026-09-11": 119,
-      "2026-10-16": 1
+      "2026-10-17": 55,
+      "2026-10-16": 10
     }
   },
   {
@@ -140,7 +143,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-16": 1431,
+      "2026-10-17": 55,
+      "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
@@ -503,8 +507,7 @@
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
-      "2025-10-18": 1440,
-      "2025-10-17": 1440
+      "2025-10-18": 1440
     }
   }
 ]
